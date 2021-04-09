@@ -13,16 +13,12 @@
 <br />
 
 <div align="center">
-  <img src="https://fast-modular-project.com/assets/imgs/technologies/reactjs.png" height="40px" alt="React"/>&nbsp;&nbsp;
-  <img src="https://fast-modular-project.com/assets/imgs/technologies/nestjs.svg" height="40px" alt="NestJS"/>&nbsp;&nbsp;
-  <img src="https://fast-modular-project.com/assets/imgs/technologies/mysql.png" height="40px" alt="MySQL"/>&nbsp;&nbsp;
-  <img src="https://fast-modular-project.com/assets/imgs/technologies/aws.png" height="30px" alt="AWS"/>
+  <img src="https://fast-modular-project.com/assets/imgs/technologies/reactjs.png" height="40px" alt="React"/>
 </div>
 
 <br />
 
-<div align="center"><strong>Implement websockets with API Gateway and AWS Lambda</strong></div>
-<div align="center">Module adding real time interactions with unlimited users to your website</div>
+<div align="center"><strong>Slider component for React</strong></div>
 
 <br />
 
@@ -41,22 +37,5 @@
 <br />
 
 <div align="center">
-  <sub>Created by <strong><a href="https://github.com/yourGitHubProfile">todo</a></strong></sub>
+  <sub>Created by <strong><a href="https://github.com/emiliendeon">Émilien Déon</a></strong></sub>
 </div>
-
-## Features included in the module
-
-Hi, if you want to implement ... in your ... you are at the right place. 
-
-In this module, I will explain all the steps that you need in:
-- ...
-- ...
-- ...
-
-You can use this module to learn how to ... or just to copy past in your project. ¯&#92;&#95;(ツ)&#95;/¯
-
-You'll find in the module: 
-- Source code
-- Documentation and Quickstart
-- Complete integration of ... in .../.../... starter
-- ...
