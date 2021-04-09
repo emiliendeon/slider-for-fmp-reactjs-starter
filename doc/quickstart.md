@@ -1,5 +1,5 @@
 ### Step 1
-Add the [react-swipeable](https://www.npmjs.com/package/react-swipeable) to your frontend :
+Add the [react-swipeable](https://www.npmjs.com/package/react-swipeable) library to your frontend :
 ```
 npm install react-swipeable
 ```
