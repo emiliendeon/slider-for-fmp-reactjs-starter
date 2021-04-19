@@ -8,4 +8,4 @@ npm install react-swipeable
 Add `slider.component.tsx` to your `frontend/src/components` folder
 
 ### Step 3
-See [example/example.screen.tsx](https://github.com/emiliendeon/slider-for-fmp-reactjs-starter/blob/main/example/example.screen.tsx) for usage
+See [example/example.screen.tsx](https://github.com/emiliendeon/slider-for-fmp-reactjs-starter/blob/master/example/example.screen.tsx) for usage
